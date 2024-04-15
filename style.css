@@ -1,0 +1,130 @@
+/* Background Video */
+
+body{
+    background-color: black;
+}
+
+nav {
+    align-items: center;
+    display: flex;
+    width: 100%vh;
+    color: #f1f1f1;
+
+}
+
+#img1{
+    border-radius: 50px;
+    border-color: #f1f1f1;
+    border: 2px solid;
+}
+
+a{
+    text-decoration: none;
+}
+
+#Cybromgames{
+    font-size: 50px;
+    color: #f1f1f1;
+    margin-left: 10px;
+}
+
+#Login{    font-size:30px;
+    color: #f1f1f1;
+ margin-left: 400px;
+}
+#aboutus{ font-size:30px;
+    color: #f1f1f1;
+ margin-left: 20px;}
+#Contactus{ font-size:30px;
+    color: #f1f1f1;
+ margin-left: 20px;}
+#privacy{ font-size:30px;
+    color: #f1f1f1;
+ margin-left: 20px;}
+
+
+
+
+
+  #content {
+    position: fixed;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+
+#DIV1{
+    position: fixed;
+    margin-top: 10% ;
+    margin-left: 30px;
+}
+
+.input{
+    text-align: left;
+    background: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 100px;
+    margin-left: 400px;
+    /* font-size: 50px; */
+color: #f1f1f1;
+border-color: #f1f1f1;
+}
+::placeholder {
+    color: #f1f1f1;
+    opacity: 1;
+  }
+
+#BUTTON1{
+    background-color: rgb(249, 54, 54);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 100px;
+    margin-left: 100px;
+    border-color: #f1f1f1;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 570px;
+    color: #f1f1f1;
+
+}
+#username{
+    margin-top: 30px;
+    font-size: 30px;
+    
+}
+#password{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#BUTTON2{
+    margin-top: 10px;
+    margin-left: 400px;
+    background: none;
+    border: none;
+    font-size: 25px;
+    color: #f1f1f1;
+}
+
+#BUTTON3{
+    margin-top: 10px;
+    margin-left: 50px;
+    background: none;
+    border: none;
+    font-size: 25px;
+    color: #f1f1f1;
+    }
+
+
+  
+    #div2{
+        color: #f1f1f1;
+        font-size: 20px;
+    }
+

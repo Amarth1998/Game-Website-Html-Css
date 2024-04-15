@@ -1,0 +1,120 @@
+#Games{font-size:30px;
+    color: white;
+ margin-left: 20px; }
+ 
+ 
+ nav {
+    /* position: fixed; */
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 40px;
+    display: flex;
+    color: #f1f1f1;
+}
+#img1{
+    border-radius: 50px;
+    border-color: #f1f1f1;
+    border: 2px solid;
+}
+a{text-decoration: none;}
+
+#Cybromgames{ font-size: 50px; color:white; margin-left: 10px;}
+#Login{ font-size:30px; color: white; margin-left: 300px;}
+#aboutus{ font-size:30px;
+    color: white;
+ margin-left: 20px;}
+
+#Contactus{ font-size:30px;
+    color: white;
+ margin-left: 20px;}
+
+#privacy{ font-size:30px;
+    color: white;
+ margin-left: 20px;
+margin-right: 100px;}
+
+
+body{
+    background-image: url("footballbg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+
+
+/* section two */
+
+#div1{
+    margin-left: 200px;
+}
+
+
+
+button:hover {
+ background-color:black;
+ color: white;
+}
+
+.btn{width: 200px; border-radius: 9px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    height: 40px;
+    text-align: center;
+}
+
+
+/* section third */
+
+#div2{
+    margin-left: 200px;
+    
+}
+
+#btn6{
+    width: 1030px;
+}
+
+
+#ask{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#ta{
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #f1f1f1;
+
+}
+
+#askinput{
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    border-color: #f1f1f1;
+    background-color: rgba(0, 0, 0, 0.719);
+   color:white;
+   text-align: center;
+
+}  
+
+#askinput{
+    color: #f1f1f1;
+}
+
+#askbtn{
+    margin-top: 10px;
+}
+
+:placeholder-shown{
+    font-size: 30px;
+}
+

@@ -1,0 +1,133 @@
+nav {
+    /* position: fixed; */
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 40px;
+    display: flex;
+    color: #f1f1f1;
+}
+#img1{
+    border-radius: 50px;
+    border-color: #f1f1f1;
+    border: 2px solid;
+}
+a{text-decoration: none;}
+
+#Cybromgames{ font-size: 50px; color:white; margin-left: 10px;}
+#Login{ font-size:30px; color: white; margin-left: 300px;}
+#aboutus{ font-size:30px;
+    color: white;
+ margin-left: 20px;}
+
+#Contactus{ font-size:30px;
+    color: white;
+ margin-left: 20px;}
+
+#privacy{ font-size:30px;
+    color: white;
+ margin-left: 20px;
+margin-right: 100px;}
+
+
+body{
+    background-image: url("footballbg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+
+
+/* section two */
+
+#div1{
+    margin-left: 200px;
+}
+
+
+
+button:hover {
+ background-color:black;
+ color: white;
+}
+
+.btn{width: 200px; border-radius: 9px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    height: 40px;
+    text-align: center;}
+
+
+/* section third */
+
+#div2{
+    margin-left: 200px;
+    
+}
+
+#btn6{
+    width: 1030px;
+}
+
+
+
+
+/* top 4 player */
+
+.playerdiv01{
+    display: flex;
+    height: 300px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 200px;
+    
+}
+
+.top401{
+    width:400px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+
+ .playerimage{
+    width:300px;
+    height: 230px;
+   border-radius: 10px;
+   }
+
+.topplayer04p1{
+    border: 1px solid black;
+    height: 210px;
+    width: 300px;
+    font-size: 30px;
+    background-color: #f1f1f174;
+    border-radius: 10px;
+    border-color: #f1f1f1;
+    text-align: justify;
+    padding: 10px;
+}
+
+.topplayer04p2{padding-left: 10px;}
+.topplayer04p3{
+    padding-left: 10px;
+    height: 300px;
+    width: 300px;
+    font-size: 40px;
+   }
+
+
+
+   .audiop{
+    margin-left: 120px;
+   }
+.audio01{width: 200px;  
+    
+    
+}
